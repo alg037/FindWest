@@ -1,0 +1,79 @@
+﻿生成启动时间为 2018/2/1 12:22:56。
+     1>项目“G:\code\PatternRecognise\PatternRecognize\PatternRecognize\PatternRecognize.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(120): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+     1>main.cpp(272): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(273): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(275): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(277): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(279): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(281): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(324): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(325): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(357): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+     1>main.cpp(362): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(389): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(390): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(392): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(394): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(396): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(398): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(425): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(426): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(446): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(453): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(475): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(479): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(515): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(524): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(477): warning C4102: “labelm”: 未引用的标签
+     1>main.cpp(445): warning C4101: “ptout”: 未引用的局部变量
+     1>main.cpp(530): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+     1>main.cpp(674): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(675): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(676): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(701): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(702): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(704): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(706): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(708): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(710): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(713): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(748): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(770): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(771): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(772): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(773): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(729): warning C4101: “vec_row”: 未引用的局部变量
+     1>main.cpp(729): warning C4101: “vec_col”: 未引用的局部变量
+     1>main.cpp(724): warning C4101: “pattern_angle”: 未引用的局部变量
+     1>main.cpp(819): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(827): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(835): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(878): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+     1>main.cpp(877): warning C4102: “labelm”: 未引用的标签
+     1>main.cpp(840): warning C4101: “temproi”: 未引用的局部变量
+     1>main.cpp(898): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(899): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(926): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(927): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(946): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(955): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(995): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(999): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(1082): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(1069): warning C4101: “p2”: 未引用的局部变量
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\code\PatternRecognise\PatternRecognize\x64\Release\PatternRecognize.exe" /INCREMENTAL:NO /NOLOGO opencv_objdetect2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_nonfree2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_videostab2413.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_ml2413.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\code\PatternRecognise\PatternRecognize\x64\Release\PatternRecognize.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\code\PatternRecognise\PatternRecognize\x64\Release\PatternRecognize.lib" /MACHINE:X64 x64\Release\link.obj
+         x64\Release\main.obj
+         正在生成代码
+     1>g:\code\patternrecognise\patternrecognize\patternrecognize\main.cpp(223): warning C4715: “ConvertPiramid”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         PatternRecognize.vcxproj -> G:\code\PatternRecognise\PatternRecognize\x64\Release\PatternRecognize.exe
+     1>已完成生成项目“G:\code\PatternRecognise\PatternRecognize\PatternRecognize\PatternRecognize.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.02

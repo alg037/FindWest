@@ -1,0 +1,39 @@
+﻿  main.cpp
+e:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(287): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(288): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(289): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(290): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(309): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(331): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(332): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(333): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(334): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(395): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(454): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(491): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(492): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(493): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(494): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(562): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(563): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(571): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(583): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(646): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(647): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(657): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(669): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(693): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(703): warning C4244: “=”: 从“float”转换到“ushort”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(642): warning C4101: “img_std_gray”: 未引用的局部变量
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(635): warning C4101: “pt2”: 未引用的局部变量
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(633): warning C4101: “rotangle”: 未引用的局部变量
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(642): warning C4101: “img_ave_gray”: 未引用的局部变量
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(714): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(750): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(166): warning C4715: “ConvertPiramid”: 不是所有的控件路径都返回值
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(264): warning C4715: “TestEdge”: 不是所有的控件路径都返回值
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(198): warning C4715: “Testpiramid”: 不是所有的控件路径都返回值
+  PatternRecognize.vcxproj -> G:\PatternRecognise\PatternRecognize\Debug\PatternRecognize.exe

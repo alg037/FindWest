@@ -1,0 +1,40 @@
+﻿  main.cpp
+E:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+main.cpp(269): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(270): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(271): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(272): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(291): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(313): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+main.cpp(314): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+main.cpp(315): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+main.cpp(316): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+main.cpp(377): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+main.cpp(436): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+main.cpp(473): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(474): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(475): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(476): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(544): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+main.cpp(545): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+main.cpp(553): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+main.cpp(565): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(527): warning C4101: “pt13”: 未引用的局部变量
+main.cpp(623): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+main.cpp(624): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+main.cpp(634): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(646): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(670): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+main.cpp(680): warning C4244: “=”: 从“float”转换到“ushort”，可能丢失数据
+main.cpp(619): warning C4101: “img_std_gray”: 未引用的局部变量
+main.cpp(612): warning C4101: “pt2”: 未引用的局部变量
+main.cpp(610): warning C4101: “rotangle”: 未引用的局部变量
+main.cpp(619): warning C4101: “img_ave_gray”: 未引用的局部变量
+main.cpp(691): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+main.cpp(727): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+g:\patternrecognise\patternrecognize\patternrecognize\main.cpp(148): warning C4715: “ConvertPiramid”: 不是所有的控件路径都返回值
+  已完成代码的生成
+  PatternRecognize.vcxproj -> G:\PatternRecognise\PatternRecognize\Release\PatternRecognize.exe
